@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.swgi --log-file -
+web: gunicorn dj_wcback.wsgi
